@@ -1,0 +1,5 @@
+=== RAPPORT MÉTÉO ===
+Date : 26-05-2026 11:01
+Ville : Abymes
+Météo : abymes: 🌧️  +24°C
+

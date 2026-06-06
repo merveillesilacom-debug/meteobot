@@ -1,0 +1,5 @@
+=== RAPPORT MÉTÉO ===
+Date : 27-05-2026 20:32
+Ville : Angers
+Météo : angers: ☀️  +31°C
+
