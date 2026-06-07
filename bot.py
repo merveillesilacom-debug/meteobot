@@ -16,7 +16,7 @@ async def on_ready():
 
 @bot.command()
 async def meteo(ctx, *, ville):
-    url = f"https://wttr.in/{ville}?format=3"
+    url =url = f"https://wttr.in/{ville}?format=3&lang=fr&m"
     try:
         reponse = requests.get(url, timeout=5)
         await ctx.send(f"📍 {reponse.text.strip()}")
